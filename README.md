@@ -101,15 +101,7 @@ flowchart LR
 4. Open `tableau/Sunrise_Coffee_Dashboard.twbx` in Tableau Desktop or Tableau Public **2025.3 or newer**.
    The packaged workbook already contains its data extract.
 
-## Limitations
-
-- The daily table is a ~20% sample, so weekday/weekend results are averages, not full-year totals.
-- The £1.0M staffing estimate assumes labour cost scales with hours; minimum crews would reduce it.
-- The loyalty conclusion is observational. Only a controlled pilot can show what happens if rewards change.
-- The Transport-Hub comparison rests on two stores.
-
 ## Credits
 
-- Group project for MLDS 430 Data Visualization, Northwestern University, Fall 2026.
-  Team: TEAM_MEMBERS
+- Homework for MLDS 430 Data Visualization, Northwestern University, Fall 2026.
 - Data: *Sunrise Coffee Chain* dataset, DataDNA Dataset Challenge by Onyx Data (October 2026).
