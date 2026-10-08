@@ -6,7 +6,8 @@ Visualization** at Northwestern University.
 
 <img src="images/Sunrise Coffee Performance (3).png" alt="Dashboard">
 
-**Interactive dashboard:** [Tableau Public](https://public.tableau.com/views/Sunrise_Coffee_Dashboard/SunriseCoffeePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) · **Analysis notebook:** [`analysis/eda.ipynb`](analysis/eda.ipynb)
+**Interactive dashboard:** [Tableau Public](https://public.tableau.com/views/Sunrise_Coffee_Dashboard/SunriseCoffeePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) · **Analysis notebook:** [`analysis/eda.ipynb`](analysis/eda.ipynb) · **Competition link:** [Onyx Data October 2026 Challenge](https://datadna.onyxdata.co.uk/challenges/october-2026-datadna-sunrise-coffee-chain-analytics-challenge/)
+
 
 ---
 
