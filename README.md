@@ -1,7 +1,7 @@
 # Sunrise Coffee Chain: Profit Is Won on Costs
 
 Tableau dashboard and Python analysis of a 60-store UK coffee chain (2023–2024), built for the
-**DataDNA Dataset Challenge (October 2026)** and as a group project for **MLDS 430 Data
+**DataDNA Dataset Challenge (October 2026)** and as a homework project for **MLDS 430 Data
 Visualization** at Northwestern University.
 
 <img src="images/Sunrise Coffee Performance (3).png" alt="Dashboard">
