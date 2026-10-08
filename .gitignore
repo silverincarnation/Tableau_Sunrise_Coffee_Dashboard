@@ -1,0 +1,9 @@
+# challenge data: download it yourself (see data/README.md)
+data/raw/
+data/prepared/
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
