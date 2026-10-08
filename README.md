@@ -4,9 +4,9 @@ Tableau dashboard and Python analysis of a 60-store UK coffee chain (2023–2024
 **DataDNA Dataset Challenge (October 2026)** and as a group project for **MLDS 430 Data
 Visualization** at Northwestern University.
 
-![Sunrise Coffee dashboard](images/dashboard.png)
+![Sunrise Coffee dashboard](images/Sunrise Coffee Performance (3).png)
 
-**Interactive dashboard:** [Tableau Public](TABLEAU_PUBLIC_LINK) · **Analysis notebook:** [`analysis/eda.ipynb`](analysis/eda.ipynb)
+**Interactive dashboard:** [Tableau Public](https://public.tableau.com/views/Sunrise_Coffee_Dashboard/SunriseCoffeePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) · **Analysis notebook:** [`analysis/eda.ipynb`](analysis/eda.ipynb)
 
 ---
 
